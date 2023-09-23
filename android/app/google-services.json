@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949123699967",
+    "project_id": "otpauth-f621f",
+    "storage_bucket": "otpauth-f621f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949123699967:android:a61b36599fd70ba69ca8ca",
+        "android_client_info": {
+          "package_name": "com.example.otp_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVFxlZ8R6yeYMXlI0plROg1hnx5NXzHuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
